@@ -1,0 +1,31 @@
+/*!
+ * Start Bootstrap - Full (https://startbootstrap.com/template-overviews/full)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
+ */
+
+body {
+  background: url('womp.png') no-repeat center 0 fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.top-spacer {
+    margin-top: 250px;
+}
+
+.big-link {
+    color: #ffffff;
+    font-size: 2em;
+}
+
+.big-link:hover {
+    color: #B695C0;
+    text-decoration: none;
+}
+
+.no-dec:hover {
+    text-decoration: none;
+}
